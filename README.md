@@ -40,6 +40,8 @@ recommended: Binary, target variable
 ## Gradient Boosting
 ## XG Boost
 ## SVM
+## Naive bayes
+
 
 # Conclusion
 

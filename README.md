@@ -4,7 +4,7 @@ In this project, I have built various predictive models to find whether the revi
 
 
 
-![image](https://user-images.githubusercontent.com/95841292/179391428-855f7707-e13f-4f8d-b8eb-d6d7bc26983a.png)
+![image](https://user-images.githubusercontent.com/95841292/179391482-33640d94-84b5-4c81-8e8f-cbf2d6eec59b.png)
 
 
 

@@ -32,15 +32,35 @@ valueformoney: Rated between 1-5
 recommended: Binary, target variable
 
 
+# Visualization 
+
+# 1) class distribution 
+
+![newplot (2)](https://user-images.githubusercontent.com/95841292/202970086-2ea18271-5535-48e4-b6d3-713d0af348f8.png)
+
+# 2) cabin type with recommendation
+
+![image](https://user-images.githubusercontent.com/95841292/202970171-c1ed9b97-ef91-4f62-af5b-b3ea6a33bfaa.png)
+
+
+# 3) balance dataset of tgt variable
+
+![newplot (3)](https://user-images.githubusercontent.com/95841292/202970254-e255cb34-91af-4067-9bd2-9ff40bec9039.png)
+
+# 4) correlation 
+
+![image](https://user-images.githubusercontent.com/95841292/202970363-ced5d751-1987-427d-b4fa-545518e83f2c.png)
+
+
 # WORKING WITH DIFFERENT MODELS
 
-## Logistic Regression
-## DecisionTree
-## Random Forest
-## Gradient Boosting
-## XG Boost
-## SVM
-## Naive bayes
+# Logistic Regression
+# DecisionTree
+# Random Forest
+# Gradient Boosting
+# XG Boost
+# SVM
+# Naive bayes
 
 
 # Conclusion

@@ -70,3 +70,7 @@ Contact me for Data Science Project Collaborations
 
 # 📚 References
 
+1.  GeekforGeeks
+2.  Kaggle
+3.  Analytics Vidya
+

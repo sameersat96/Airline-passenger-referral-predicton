@@ -76,7 +76,7 @@ recommended: Binary, target variable
 
 Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-Special thanks AlmaBetter
+Special thanks to AlmaBetter
 
 Contact me for Data Science Project Collaborations
 
@@ -90,7 +90,7 @@ Contact me for Data Science Project Collaborations
 
 # 📚 References
 
-1.  GeekforGeeks
+1.  https://phdessay.com/airline-industry-research/
 2.  Kaggle
 3.  Analytics Vidya
 
